@@ -62,14 +62,6 @@ import pandas as pd
 from keeper_helper import get_secrets
 ```
 
-```
-pip install pandas
-```
-
-```
-pip3 install keepercommander
-```
-
 ### API Documentation
 
 - After setting up your project from the QuickStart guide click [here](https://developers.docusign.com/docs/esign-rest-api/how-to/) to search through different functions that can be added directly to your project.
